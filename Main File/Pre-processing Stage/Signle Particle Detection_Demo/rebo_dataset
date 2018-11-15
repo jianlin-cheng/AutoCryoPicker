@@ -1,3 +1,0 @@
-clc; close all; clear all;
-%
-load ribo.mat;
